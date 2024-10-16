@@ -13,6 +13,8 @@ O projeto consiste na criação de três relatórios de vendas distintos com o o
 - **Gráfico de Barras:** Representa a soma de vendas por ano, mês e segmento.
 - **Filtros:** Possibilidade de segmentar os dados por ano e mês para análise personalizada.
 
+![Relatorio_1](https://github.com/feer-rodriguess90/PowerBI-Financial.Analysis/blob/main/assets/Relatorio_1.png)
+
 ### Relatório 2: Vendas e Lucro por País
 - **Cartão 1:** Soma de vendas totais.
 - **Cartão 2:** Total de unidades vendidas.
@@ -20,10 +22,14 @@ O projeto consiste na criação de três relatórios de vendas distintos com o o
 - **Gráfico de Barras 1:** Soma de lucro por ano e mês.
 - **Gráfico de Barras 2:** Soma de vendas por país.
 
+![Relatorio_2](https://github.com/feer-rodriguess90/PowerBI-Financial.Analysis/blob/main/assets/Relatorio_2.png)
+
 ### Relatório 3: Visualizações Geográficas
 - **Mapa 1:** Soma de vendas e unidades vendidas por país.
 - **Mapa 2:** Soma de lucro por país.
 - **Gráfico de Pizza:** Lucro por segmento.
+
+![Relatorio_3](https://github.com/feer-rodriguess90/PowerBI-Financial.Analysis/blob/main/assets/Relatorio_3.png)
 
 ## 🛠 Tecnologias Utilizadas
 - **Power BI:** Ferramenta principal para a construção dos relatórios e dashboards.
