@@ -44,6 +44,21 @@ O projeto consiste na criação de três relatórios de vendas distintos com o o
 ## 🎯 Resultados Esperados
 Este dashboard permite que os usuários obtenham insights valiosos sobre o desempenho de vendas em diferentes segmentos e regiões, além de facilitar a identificação de tendências de vendas e lucros.
 
+# 👩🏽‍💻 *DESAFIO Parte II - Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX*
+
+## Processo de Criação das Tabelas
+Essa parte do desafio abrange a criação de tabelas usando Power BI a partir de um tabela de origem. Além da criação da tabela calendário usando `DAX`. As tabelas criadas incluem:
+
+- D_Produtos: Contém dados como ID do produto, nome, média de unidades vendidas, média e mediana do valor de vendas, e valores máximo e mínimo de venda.
+- D_Produtos_Detalhes: Contém o ID do produto, faixa de desconto, preço de venda, unidades vendidas e preço de fabricação.
+- D_Descontos: Inclui o ID do produto, valor do desconto e faixa de desconto.
+- D_Detalhes: Tabela com ID do produto, lucro, custo das mercadorias vendidas (COGS), vendas, e vendas brutas.
+- D_Calendário: Criada usando DAX com a função `calendar()`, fornece uma tabela de calendário para relacionar as datas do relatório.
+- F_Vendas: Tabela principal de fatos com dados como SK_ID, ID do produto, produto, unidades vendidas, preço de venda, faixa de desconto, segmento, país, vendedor, lucro, e data.
+
+![Star Schema](https://github.com/feer-rodriguess90/PowerBI-Financial.Analysis/blob/main/assets/Desafio_FormulasDAX.png)
+
+
 ## 🤝🏽 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
