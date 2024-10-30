@@ -59,7 +59,7 @@ Essa parte do desafio abrange a criação de tabelas usando Power BI a partir de
 ![Star Schema](https://github.com/feer-rodriguess90/PowerBI-Financial.Analysis/blob/main/assets/Desafio_FormulasDAX.png)
 
 # 👩🏽‍💻 *Desafio Final - Foco na Experiência do Usuário*
-No desafio final, for realizado alterações no layout do dashboard com o objetivo de aprimorar a experiência do usuário. As mudanças foram realizadas considerando princípios de:
+No desafio final, foi realizado alterações no layout do dashboard com o objetivo de aprimorar a experiência do usuário. As mudanças foram realizadas considerando princípios de:
 
 - **Posicionamento e Contraste:** Ajustes no posicionamento de elementos e uso de cores para destacar informações principais, facilitando a legibilidade e interpretação dos dados.
 - **Proporção Áurea:** Aplicação de proporções harmônicas para organizar os componentes visuais de forma equilibrada e agradável ao olhar.
